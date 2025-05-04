@@ -61,7 +61,7 @@
     <tr>
       <td width="50%">
         <div>
-          <img src="https://private-user-images.githubusercontent.com/142198827/415738171-085496bd-ccf3-4f7b-a6af-640e359bbffd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYzMzQ3OTQsIm5iZiI6MTc0NjMzNDQ5NCwicGF0aCI6Ii8xNDIxOTg4MjcvNDE1NzM4MTcxLTA4NTQ5NmJkLWNjZjMtNGY3Yi1hNmFmLTY0MGUzNTliYmZmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwNFQwNDU0NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZGRjNjdiZTQ5MTA5OWU5YmYxMzlhNTU5ZDNlNDRjZjczOThiMTU0NjhiMzQ0NWIxNGI1NDg3MGE3MWEzODEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.oTU7_DcOFldtTWLX_y6pGoFyul2295mOA5mikehsUCs">
+          <img src="https://github.com/user-attachments/assets/1d2a27ed-2bd1-487a-a7ae-65e69be99dbf">
         </div>
       </td>
       <td width="50%">
@@ -70,7 +70,7 @@
         </div>
       </td>
     </tr>
-    <tr>
+<!--     <tr>
       <th>
         <div>
           <a href="https://github.com/junpei-chan/konsei-renewal">コーポレートサイトのリニューアル</a>
@@ -83,7 +83,7 @@
           <img src="https://github.com/user-attachments/assets/0eb82b4e-658f-4b0f-b1bd-9a3652159800"/>
         </div>
       </td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
 
