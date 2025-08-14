@@ -70,20 +70,20 @@
         </div>
       </td>
     </tr>
-<!--     <tr>
-      <th>
+    <tr>
+      <th width="50%">
         <div>
-          <a href="https://github.com/junpei-chan/konsei-renewal">コーポレートサイトのリニューアル</a>
+          <a href="https://github.com/junpei-chan/TechJamCteam">地元飲食店PRアプリ</a>
         </div>
       </th>
     </tr>
     <tr>
-      <td>
+      <td width="50%" >
         <div>
-          <img src="https://github.com/user-attachments/assets/0eb82b4e-658f-4b0f-b1bd-9a3652159800"/>
+          <img src="https://github.com/junpei-chan/TechJamCteam/blob/dev/readmeImage/profile.png">
         </div>
       </td>
-    </tr> -->
+    </tr>
   </tbody>
 </table>
 
