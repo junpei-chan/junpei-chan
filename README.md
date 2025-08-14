@@ -80,7 +80,7 @@
     <tr>
       <td width="50%" >
         <div>
-          <img src="">
+          <img src="https://github.com/junpei-chan/TechJamCteam/blob/dev/readmeImage/profile.png">
         </div>
       </td>
     </tr>
