@@ -24,7 +24,7 @@
       </th>
       <th width="50%">
         <div>
-          <a>UIコンポーネントライブラリ (制作中) </a>
+          <a>UIコンポーネントライブラリ (制作中！) </a>
         </div>
       </th>
     </tr>
@@ -80,7 +80,7 @@
     <tr>
       <td width="50%" >
         <div>
-          <img src="https://github.com/junpei-chan/TechJamCteam/blob/dev/readmeImage/%E3%83%95%E3%82%9A%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E7%94%A8.png">
+          <img src="https://github.com/junpei-chan/TechJamCteam/blob/main/readmeImage/%E3%83%95%E3%82%9A%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E7%94%A8.png">
         </div>
       </td>
     </tr>
