@@ -78,11 +78,21 @@
           <a href="https://github.com/junpei-chan/TechJamCteam">地元飲食店PRアプリ</a>
         </div>
       </th>
+      <th>
+        <div>
+          <a href="https://github.com/junpei-chan/konsei-renewal">Webサイトのリニューアル</a>
+        </div>
+      </th>
     </tr>
     <tr>
       <td width="50%" >
         <div>
           <img src="https://github.com/junpei-chan/TechJamCteam/blob/main/readmeImage/%E3%83%95%E3%82%9A%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E7%94%A8.png">
+        </div>
+      </td>
+      <td>
+        <div>
+          <img src="https://github.com/junpei-chan/konsei-renewal/blob/master/readmeImage/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E7%94%A8.png">
         </div>
       </td>
     </tr>
