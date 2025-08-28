@@ -107,6 +107,7 @@
 <div>
   <img src="https://img.shields.io/badge/-HTML5-444444?logo=html5&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-CSS3-444444?logo=css3&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SCSS-444444?logo=scss&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Python-444444?logo=python&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JavaScript-444444?logo=javascript&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-TypeScript-444444?logo=typescript&style=for-the-badge" />
@@ -129,7 +130,6 @@
 <div>
   <img src="https://img.shields.io/badge/-Figma-444444?logo=figma&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Canva-444444?logo=canva&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-AdobeIllustrator-444444?logo=adobeillustrator&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-AdobePhotoshop-444444?logo=adobephotoshop&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-AdobeXD-444444?logo=adobexd&style=for-the-badge" />
 </div>
@@ -137,6 +137,7 @@
 ## 開発ツール
 <div>
   <img src="https://img.shields.io/badge/-Docker-444444?logo=docker&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Nginx-444444?logo=nginx&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Git-444444?logo=git&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-GitHub-444444?logo=github&style=for-the-badge" />
 </div>
