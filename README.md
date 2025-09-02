@@ -8,7 +8,8 @@
 
 <br >
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junpei-chan) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reonalddekapurio&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junpei-chan) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junpei-chan&layout=compact)
 
 ## 制作物
 
