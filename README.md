@@ -112,6 +112,7 @@
   <img src="https://img.shields.io/badge/-Python-444444?logo=python&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JavaScript-444444?logo=javascript&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-TypeScript-444444?logo=typescript&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PHP-444444?logo=php&style=for-the-badge" />
 </div>
 
 ## フレームワーク
