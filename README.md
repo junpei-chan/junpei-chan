@@ -109,7 +109,7 @@
 <div>
   <img src="https://img.shields.io/badge/-HTML5-444444?logo=html5&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-CSS3-444444?logo=css3&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-SCSS-444444?logo=scss&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SCSS-444444?logo=sass&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Python-444444?logo=python&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JavaScript-444444?logo=javascript&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-TypeScript-444444?logo=typescript&style=for-the-badge" />
@@ -149,7 +149,7 @@
 <div>
   <img src="https://img.shields.io/badge/-TailwindCSS-444444?logo=tailwindcss&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Jquery-444444?logo=jquery&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Node.js-444444?logo=node.js&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-ESLint-444444?logo=eslint&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-WordPress-444444?logo=wordpress&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Node.js-444444?logo=node.js&style=for-the-badge" />
 </div>
