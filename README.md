@@ -151,4 +151,5 @@
   <img src="https://img.shields.io/badge/-Jquery-444444?logo=jquery&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-ESLint-444444?logo=eslint&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-WordPress-444444?logo=wordpress&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Node.js-444444?logo=node.js&style=for-the-badge" />
 </div>
