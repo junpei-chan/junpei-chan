@@ -98,6 +98,18 @@
         </div>
       </td>
     </tr>
+    <tr>
+      <th>タブレット注文用アプリ</th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>
+        <div>
+          <img src="https://github.com/junpei-chan/MantanDteam/raw/main/readmeImage/menu-detail.png">
+        </div>
+      </td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
