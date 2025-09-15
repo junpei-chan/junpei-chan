@@ -99,7 +99,9 @@
       </td>
     </tr>
     <tr>
-      <th>タブレット注文用アプリ</th>
+      <th>
+        <a href="https://github.com/junpei-chan/MantanDteam">タブレット注文用アプリ<a/>
+      </th>
       <th></th>
     </tr>
     <tr>
