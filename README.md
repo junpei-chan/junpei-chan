@@ -141,6 +141,7 @@
 ## データベース
 <div>
   <img src="https://img.shields.io/badge/-MySQL-444444?logo=mysql&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Sqlite-444444?logo=sqlite&style=for-the-badge" />
 </div>
 
 ## デザインツール
