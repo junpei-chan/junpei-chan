@@ -121,8 +121,8 @@
 
 ## 言語
 <div>
-  <img src="https://img.shields.io/badge/-HTML5-444444?logo=html5&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CSS3-444444?logo=css&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-HTML-444444?logo=html5&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CSS-444444?logo=css&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-SCSS-444444?logo=sass&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Python-444444?logo=python&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JavaScript-444444?logo=javascript&style=for-the-badge" />
