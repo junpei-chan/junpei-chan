@@ -8,9 +8,7 @@
 
 <br >
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junpei-chan) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junpei-chan&layout=compact)
-[![trophy](https://github-profile-trophy.vercel.app/?username=junpei-chan)](https://github.com/junpei-chan/github-profile-trophy)
+![](https://github-profile-trophy.screw-hand.vercel.app/?username=junpei-chan)
 
 <br >
 
