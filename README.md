@@ -110,12 +110,9 @@
           <img src="https://github.com/junpei-chan/MantanDteam/raw/main/readmeImage/menu-detail.png">
         </div>
       </td>
-      <td align="center">
+      <td>
         <div>
-        <img 
-          src="https://github.com/Gran-App-Vantan/vanx-frontend/blob/dev/readmeImage/pages/reaction-sheet.png"
-          style="block; width: 40%;"
-        />
+        <img src="https://github.com/Gran-App-Vantan/vanx-frontend/blob/dev/readmeImage/profile-image.png" />
         </div>
       </td>
     </tr>
