@@ -100,7 +100,9 @@
       <th>
         <a href="https://github.com/junpei-chan/MantanDteam">タブレット注文用アプリ<a/>
       </th>
-      <th></th>
+      <th>
+        <a href="https://github.com/Gran-App-Vantan/vanx-frontend">SNS</a>
+      </th>
     </tr>
     <tr>
       <td>
@@ -108,7 +110,14 @@
           <img src="https://github.com/junpei-chan/MantanDteam/raw/main/readmeImage/menu-detail.png">
         </div>
       </td>
-      <td></td>
+      <td align="center">
+        <div>
+        <img 
+          src="https://github.com/Gran-App-Vantan/vanx-frontend/blob/dev/readmeImage/pages/reaction-sheet.png"
+          style="block; width: 40%;"
+        />
+        </div>
+      </td>
     </tr>
   </tbody>
 </table>
