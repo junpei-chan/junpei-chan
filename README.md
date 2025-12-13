@@ -6,6 +6,8 @@
 - **フロントエンドを主食にしてます**
 - **馬が好き。泣くほど好き🐴**
 
+---
+
 <br >
 
 <img height="400" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junpei-chan&layout=compact" />
