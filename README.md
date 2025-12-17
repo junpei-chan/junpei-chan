@@ -61,7 +61,7 @@
       </th>
       <th width="50%">
         <div>
-          <a href="https://github.com/kaito0523/SuntoryAppFrontend">自分磨きアプリ</a>
+          <a href="https://github.com/kaito0523/SuntoryAppFrontend/tree/dev">自分磨きアプリ</a>
         </div>
       </th>
     </tr>
