@@ -10,9 +10,6 @@
 
 <br >
 
-<img height="400" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junpei-chan&layout=compact" />
- <img height="400" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=junpei-chan" />
-
 ![](https://github-profile-trophy.screw-hand.vercel.app/?username=junpei-chan)
 
 <br >
