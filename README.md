@@ -165,6 +165,7 @@
   <img src="https://img.shields.io/badge/-Vite-444444?logo=vite&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Git-444444?logo=git&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-GitHub-444444?logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Vercel-444444?logo=vercel&style=for-the-badge" />
 </div>
 
 ## その他
