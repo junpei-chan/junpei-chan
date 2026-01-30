@@ -103,7 +103,7 @@
         <a href="https://github.com/junpei-chan/MantanDteam">タブレット注文用アプリ<a/>
       </th>
       <th>
-        <a href="https://github.com/Gran-App-Vantan/vanx-frontend">SNS</a>
+        <a href="https://github.com/Gran-App-Vantan/vanx-frontend">文化祭SNS</a>
       </th>
     </tr>
     <tr>
