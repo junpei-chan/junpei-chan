@@ -142,6 +142,7 @@
   <img src="https://img.shields.io/badge/-FastAPI-444444?logo=fastapi&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-React-444444?logo=react&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Next.js-444444?logo=next.js&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Astro-444444?logo=astro&style=for-the-badge" />
 </div>
 
 ## データベース
