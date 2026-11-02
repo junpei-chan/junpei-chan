@@ -16,38 +16,6 @@
 
 # 制作物
 
-## 個人制作
-
-<table>
-  <tbody>
-    <tr>
-      <th width="50%">
-        <div>
-          <a href="https://github.com/junpei-chan/VantanHeartBeat">恋愛シミュレーションゲーム</a>
-        </div>
-      </th>
-      <th width="50%">
-        <div>
-          <a></a>
-        </div>
-      </th>
-    </tr>
-    <tr>
-      <td width="50%">
-        <div>
-          <img src="https://github.com/user-attachments/assets/eaedb643-a93a-423b-84f2-fd73d5f3568b" />
-        </div>
-      </td>
-      <td>
-        <div>
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-## チーム制作
-
 <table>
   <tbody>
     <tr>
